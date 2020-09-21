@@ -1,6 +1,8 @@
 # XrayHiCAnalysis
 Custom scripts needed to calculate TAD boundaries with HiCRatio and to calculate Hi-C dataset reproducibility as implemented in the manuscript: Sanders et al. 2020 "Radiation-Induced DNA Damage and Repair Effects on 3D Genome Organization"
 
+Code author: Yang Xu
+
 HiC reproducibility: hic_reproducibility.R
 script should be run in R or RStudio. To produce the results shown in the paper, user can run the code in the script line by line.
 To test the code, the user can use the 3 2.5 Mb binned sample datasets provided.  Hi-C contact matrices should be in c-world format
